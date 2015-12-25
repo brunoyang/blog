@@ -8,7 +8,7 @@
 * [koa源码分析（三） - request.js](https://github.com/brunoyang/blog/issues/7)
 * [koa源码分析（四） - response.js](https://github.com/brunoyang/blog/issues/8)
 * [koa源码分析（五） - koa 2.0](https://github.com/brunoyang/blog/issues/10)
-* [cors和koa-cors](#11)
+* [cors和koa-cors](https://github.com/brunoyang/blog/issues/11)
 
 ## React
 * [context](https://github.com/brunoyang/blog/issues/9)

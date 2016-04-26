@@ -12,6 +12,7 @@
 * [Async就要来了，来不及解释了，快上车！](https://github.com/brunoyang/blog/issues/14)
 * [static file & koa-static](https://github.com/brunoyang/blog/issues/15)
 * [cookie & session & koa](https://github.com/brunoyang/blog/issues/16)
+* [倒霉蛋李建国](https://github.com/brunoyang/blog/issues/17)
 
 ## React
 * [context](https://github.com/brunoyang/blog/issues/9)

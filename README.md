@@ -19,7 +19,7 @@
 * [context](https://github.com/brunoyang/blog/issues/9)
 
 ## HTML
-* [使用 IntersectionObserver 和 registerElement 打造 Lazyload](https://github.com/brunoyang/blog/issues/20)
+* [使用 IntersectionObserver 和 registerElement 打造 Lazyload](https://github.com/brunoyang/blog/issues/19)
 
 ## http
 * [no-cache与max-age=0](https://github.com/brunoyang/blog/issues/1)

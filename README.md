@@ -18,6 +18,9 @@
 ## React
 * [context](https://github.com/brunoyang/blog/issues/9)
 
+## 编辑工具
+* [Babel 全家桶](https://github.com/brunoyang/blog/issues/20)
+
 ## HTML
 * [使用 IntersectionObserver 和 registerElement 打造 Lazyload](https://github.com/brunoyang/blog/issues/19)
 

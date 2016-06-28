@@ -24,6 +24,6 @@
 ## HTML
 * [使用 IntersectionObserver 和 registerElement 打造 Lazyload](https://github.com/brunoyang/blog/issues/19)
 
-## http
+## HTTP
 * [no-cache 与 max-age=0](https://github.com/brunoyang/blog/issues/1)
 * [if-modified-since vs if-none-match](https://github.com/brunoyang/blog/issues/13)

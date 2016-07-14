@@ -16,6 +16,7 @@
 * [Koa 在 Macaac 中的实践](https://github.com/brunoyang/blog/issues/18)
 
 ## JS
+* [使用 IntersectionObserver 和 registerElement 打造 Lazyload](https://github.com/brunoyang/blog/issues/19)
 * [JS 与迭代器](https://github.com/brunoyang/blog/issues/21)
 
 ## React
@@ -23,9 +24,6 @@
 
 ## 编译工具
 * [Babel 全家桶](https://github.com/brunoyang/blog/issues/20)
-
-## HTML
-* [使用 IntersectionObserver 和 registerElement 打造 Lazyload](https://github.com/brunoyang/blog/issues/19)
 
 ## HTTP
 * [no-cache 与 max-age=0](https://github.com/brunoyang/blog/issues/1)

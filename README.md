@@ -18,6 +18,7 @@
 ## JS
 * [使用 IntersectionObserver 和 registerElement 打造 Lazyload](https://github.com/brunoyang/blog/issues/19)
 * [JS 与迭代器](https://github.com/brunoyang/blog/issues/21)
+* [LRU（近期最少使用算法）及实现](https://github.com/brunoyang/blog/issues/22)
 
 ## React
 * [context](https://github.com/brunoyang/blog/issues/9)

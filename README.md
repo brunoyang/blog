@@ -22,6 +22,7 @@
 
 ## React
 * [context](https://github.com/brunoyang/blog/issues/9)
+* [react-redux 的 hooks](https://github.com/brunoyang/blog/issues/24)
 
 ## 编译工具
 * [Babel 全家桶](https://github.com/brunoyang/blog/issues/20)
